@@ -1,0 +1,3 @@
+C:\Users\farhad\documents\visual studio 2013\Projects\BlackThorns\Calculator\bin\Debug\Calculator.exe.config
+C:\Users\farhad\documents\visual studio 2013\Projects\BlackThorns\Calculator\obj\Debug\Calculator.exe
+C:\Users\farhad\documents\visual studio 2013\Projects\BlackThorns\Calculator\obj\Debug\Calculator.pdb

@@ -1,0 +1,14 @@
+c:\users\farhad\documents\visual studio 2013\Projects\BlackThorns\CalculatorTests\bin\Debug\CalculatorTests.dll
+c:\users\farhad\documents\visual studio 2013\Projects\BlackThorns\CalculatorTests\bin\Debug\CalculatorTests.pdb
+c:\users\farhad\documents\visual studio 2013\Projects\BlackThorns\CalculatorTests\bin\Debug\Calculator.exe
+c:\users\farhad\documents\visual studio 2013\Projects\BlackThorns\CalculatorTests\bin\Debug\Calculator.pdb
+c:\users\farhad\documents\visual studio 2013\Projects\BlackThorns\CalculatorTests\obj\Debug\CalculatorTests.csprojResolveAssemblyReference.cache
+c:\users\farhad\documents\visual studio 2013\Projects\BlackThorns\CalculatorTests\obj\Debug\CalculatorTests.dll
+c:\users\farhad\documents\visual studio 2013\Projects\BlackThorns\CalculatorTests\obj\Debug\CalculatorTests.pdb
+C:\Users\farhad\documents\visual studio 2013\Projects\BlackThorns\CalculatorTests\bin\Debug\StructureMap.dll
+C:\Users\farhad\documents\visual studio 2013\Projects\BlackThorns\CalculatorTests\bin\Debug\StructureMap.Net4.dll
+C:\Users\farhad\documents\visual studio 2013\Projects\BlackThorns\CalculatorTests\bin\Debug\StructureMap.pdb
+C:\Users\farhad\documents\visual studio 2013\Projects\BlackThorns\CalculatorTests\bin\Debug\StructureMap.xml
+C:\Users\farhad\documents\visual studio 2013\Projects\BlackThorns\CalculatorTests\bin\Debug\StructureMap.Net4.pdb
+C:\Users\farhad\documents\visual studio 2013\Projects\BlackThorns\CalculatorTests\bin\Debug\Rhino.Mocks.dll
+C:\Users\farhad\documents\visual studio 2013\Projects\BlackThorns\CalculatorTests\bin\Debug\Rhino.Mocks.xml
